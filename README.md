@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm D Debnath 👋
+# Hi, I'm D D Nath 👋
 
 **Flutter Enthusiast & Web Design Learner**  
 Crafting beautiful and functional websites with **HTML & CSS**
